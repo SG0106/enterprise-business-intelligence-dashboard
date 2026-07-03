@@ -22,3 +22,33 @@ The report follows a business-first approach, combining data modeling, DAX, Powe
 - **Data Modeling**
 - **Power BI Service**
 - **Microsoft Excel**
+
+  ## 📸 Dashboard Gallery
+
+### 🏠 Home Page
+
+![Home Page](assets/01-home-page.png)
+
+### 💰 Finance Dashboard
+
+![Finance Dashboard](assets/02-finance-dashboard.png)
+
+### 📈 Sales Dashboard
+
+![Sales Dashboard](assets/03-sales-dashboard.png)
+
+### 📣 Marketing Dashboard
+
+![Marketing Dashboard](assets/04-marketing-dashboard.png)
+
+### 🚚 Supply Chain Dashboard
+
+![Supply Chain Dashboard](assets/05-supply-chain-dashboard.png)
+
+### 👔 Executive Dashboard
+
+![Executive Dashboard](assets/06-executive-dashboard.png)
+
+### 🗂️ Data Model
+
+![Data Model](assets/07-data-model.png)
