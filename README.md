@@ -23,32 +23,38 @@ The report follows a business-first approach, combining data modeling, DAX, Powe
 - **Power BI Service**
 - **Microsoft Excel**
 
-  ## 📸 Dashboard Gallery
+## 📸 Dashboard Gallery
 
-### 🏠 Home Page
+A centralized Business Intelligence platform designed to serve different stakeholders across the organization. Each dashboard focuses on a specific business function while maintaining a consistent user experience.
 
-![Home Page](assets/01-home-page.png)
+| 🏠 Home | 👔 Executive |
+|---------|-------------|
+| ![Home](assets/01-home-page.png) | ![Executive](assets/06-executive-dashboard.png) |
 
-### 💰 Finance Dashboard
+| 💰 Finance | 📈 Sales |
+|------------|----------|
+| ![Finance](assets/02-finance-dashboard.png) | ![Sales](assets/03-sales-dashboard.png) |
 
-![Finance Dashboard](assets/02-finance-dashboard.png)
-
-### 📈 Sales Dashboard
-
-![Sales Dashboard](assets/03-sales-dashboard.png)
-
-### 📣 Marketing Dashboard
-
-![Marketing Dashboard](assets/04-marketing-dashboard.png)
-
-### 🚚 Supply Chain Dashboard
-
-![Supply Chain Dashboard](assets/05-supply-chain-dashboard.png)
-
-### 👔 Executive Dashboard
-
-![Executive Dashboard](assets/06-executive-dashboard.png)
+| 📣 Marketing | 🚚 Supply Chain |
+|--------------|----------------|
+| ![Marketing](assets/04-marketing-dashboard.png) | ![Supply Chain](assets/05-supply-chain-dashboard.png) |
 
 ### 🗂️ Data Model
 
+The solution follows a dimensional modeling approach with fact and dimension tables to support efficient reporting, reusable measures, and scalable analytics.
+
 ![Data Model](assets/07-data-model.png)
+
+## 🏢 Business Problem
+
+Modern organizations generate massive amounts of data across different business functions. However, each department has unique goals and requires different insights to make effective decisions.
+
+- Executive teams need a high-level view of overall business performance.
+- Finance teams monitor profitability, margins, and financial health.
+- Sales teams track customer and regional performance.
+- Marketing teams evaluate product and customer profitability.
+- Supply Chain teams focus on forecast accuracy and operational efficiency.
+
+Without a centralized reporting solution, decision-making becomes fragmented and time-consuming.
+
+This project addresses that challenge by providing a unified Business Intelligence platform that delivers interactive, role-based dashboards to support data-driven decision-making across the organization.
